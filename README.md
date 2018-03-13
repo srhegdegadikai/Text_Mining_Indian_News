@@ -5,6 +5,9 @@ March 6, 2018
 
 This small analysis focuses on the political coverage given in Times of India regarding two major political parties, BJP and the Congress. The analysis is structured in the tidy format prescribed by Dr. Julia Silge and Dr. David Robinson.
 
+The data was gathered from a kaggle dataset and it is available at 
+[https://www.kaggle.com/therohk/india-headlines-news-dataset](https://www.kaggle.com/therohk/india-headlines-news-dataset)
+
 ### Data Tidying -
 
 ``` r
